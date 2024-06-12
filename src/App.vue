@@ -3,7 +3,7 @@
     <h1 id="rest-countries-api">Journey Mentor REST Countries API</h1>
     <div class="figure">
       <img
-        src="./design/desktop-preview.jpg"
+        src="/designs/desktop-preview.jpg"
         alt="Design preview for the REST Countries API with color theme switcher coding challenge"
       />
       <p class="caption">
@@ -55,31 +55,31 @@
     <h2 id="designs">Designs</h2>
     <h3 id="mobile">Mobile</h3>
     <ul>
-      <li><a href="./design/mobile-design-home-light.jpg">Home Page</a></li>
+      <li><a href="/designs/mobile-design-home-light.jpg">Home Page</a></li>
       <li>
-        <a href="./design/mobile-design-home-dark.jpg">Home Page [Dark]</a>
+        <a href="/designs/mobile-design-home-dark.jpg">Home Page [Dark]</a>
       </li>
-      <li><a href="./design/mobile-design-detail-light.jpg">Detail Page</a></li>
+      <li><a href="/designs/mobile-design-detail-light.jpg">Detail Page</a></li>
       <li>
-        <a href="./design/mobile-design-detail-dark.jpg">Detail Page [Dark]</a>
+        <a href="/designs/mobile-design-detail-dark.jpg">Detail Page [Dark]</a>
       </li>
     </ul>
     <h3 id="desktop">Desktop</h3>
     <ul>
-      <li><a href="./design/desktop-design-home-light.jpg">Home Page</a></li>
+      <li><a href="/designs/desktop-design-home-light.jpg">Home Page</a></li>
       <li>
-        <a href="./design/desktop-design-home-dark.jpg">Home Page [Dark]</a>
+        <a href="/designs/desktop-design-home-dark.jpg">Home Page [Dark]</a>
       </li>
       <li>
-        <a href="./design/desktop-design-detail-light.jpg">Detail Page</a>
+        <a href="/designs/desktop-design-detail-light.jpg">Detail Page</a>
       </li>
       <li>
-        <a href="./design/desktop-design-detail-dark.jpg">Detail Page [Dark]</a>
+        <a href="/designs/desktop-design-detail-dark.jpg">Detail Page [Dark]</a>
       </li>
     </ul>
     <p>
       You can also download all the design files zipped
-      <a href="./design.zip">here</a>.
+      <a href="/designs.zip">here</a>.
     </p>
     <h2 id="your-users-should-be-able-to">Your users should be able to</h2>
     <ul>
