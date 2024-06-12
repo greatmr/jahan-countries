@@ -44,13 +44,14 @@
       <a href="./style-guide.md"><code>style-guide.md</code></a> file, which
       contains the information you'll need, such as the color palette and fonts.
     </p>
+    <h2 id="the-challenge">Requirements</h2>
     <p>
-      You can use any JavaScript framework/library on the front-end such as
-      <a href="https://reactjs.org">React</a> or
-      <a href="https://vuejs.org">Vue</a>, but we prefer if you use Vue for this
-      project. You also have complete control over which packages you use to do
-      things like make HTTP requests or style your project. Note that a clean
-      project structure is a bonus.
+      For the frontend framework, it is required to use
+      <a href="https://vuejs.org" target="_blank">Vue</a> along with
+      <a href="https://www.typescriptlang.org" target="_blank">TypeScript</a>
+      and Vue 3 Composition API. You have the flexibility to choose the packages
+      you need for tasks such as making HTTP requests or styling your project.
+      Additionally, having a clean project structure will be considered a bonus.
     </p>
     <h2 id="designs">Designs</h2>
     <h3 id="mobile">Mobile</h3>
@@ -114,21 +115,8 @@
         have a fallback if the server-side render faces an error
       </li>
       <li>
-        <strong>Bonus:</strong> Collect analytical data (in whichever way you
-        prefer) using Google Analytics
-      </li>
-      <li>
-        <strong>Bonus:</strong> Make sure styles are loaded whenever they're
-        really needed. e.g., The styles for the details page don't load on the
-        homepage
-      </li>
-      <li>
         <strong>Bonus:</strong> Make sure the ratio for the country flags is 4:3
         or any other ratio you find suitable
-      </li>
-      <li>
-        <strong>Bonus:</strong> Dockerize your application by creating an
-        efficient Dockerfile
       </li>
       <li><strong>Bonus:</strong> Add unit tests for components</li>
       <li>
