@@ -77,10 +77,6 @@
         <a href="/designs/desktop-design-detail-dark.jpg">Detail Page [Dark]</a>
       </li>
     </ul>
-    <p>
-      You can also download all the design files zipped
-      <a href="/designs.zip">here</a>.
-    </p>
     <h2 id="your-users-should-be-able-to">Your users should be able to</h2>
     <ul>
       <li>See all countries from the API on the homepage</li>
