@@ -142,7 +142,10 @@
     <h2 id="giving-feedback">Giving feedback</h2>
     <p>
       Feedback is always welcome, so if you have any to give on this challenge
-      please email frontend[at]Journey Mentor[dot]ir.
+      please email
+      <a href="mailto:frontend@JourneyMentor.net"
+        >frontend[at]JourneyMentor[dot]com</a
+      >.
     </p>
     <p><strong>Have fun building!</strong> 🚀</p>
   </article>
